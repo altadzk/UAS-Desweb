@@ -1,0 +1,111 @@
+body {
+	padding: 0;
+    margin: 0;
+    background-image: url('bootstrap/img/background.jpg');
+}
+nav {
+	background-color: #FFD700;
+}
+.navatas {
+	background-color: #F0E68C;
+	background-size: cover;    
+    position: relative; 
+}
+.marquee{
+	color: red;
+}
+.jumbotron {
+	background-image: url('bootstrap/img/bg white.jpg');  
+    background-size: cover;    
+    position: relative; 
+    color: black;
+}
+.header {
+	background-color: #F0E68C;
+	background-size: cover;    
+    position: relative; 
+    color: black;
+}
+.overlay {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.6);
+}
+.nav-link,
+.nav-link {
+	margin-left: 1em !important;
+	color: black;
+}
+.nav-link:hover {
+	color: white;
+}
+.navbar-collapse {
+	justify-content: flex-end;
+}
+.card {
+	border-radius: 15px;
+}
+.card img {
+	border-radius: 15px;
+}
+section {
+	min-height: 420px;
+}
+.features {
+    background-image: url('bootstrap/img/bg white.jpg');
+    margin: 4em auto;
+    padding: 1em;
+    position: relative;
+}
+.galeri {
+    background-color: black;
+    margin: 4em auto;
+    padding: 1em;
+    position: relative;
+}
+.galeri img {
+    -webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+    margin-bottom: 16px;
+}
+.elementor {
+	background-color: grey;
+	background-size: cover;
+	margin: 4em auto;
+    padding: 1em;
+    height: 80%;
+    position: relative;
+
+}
+.contact {
+	background-color: #FFD700;
+}
+.shop {
+	background-color: #F8F8FF;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: auto;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-instagram {
+  color: white;
+}
+.fa-facebook {
+  color: white;
+}
+.fa-whatsapp {
+	color: white;
+}
